@@ -93,7 +93,7 @@
 
   ​	相关代码放在code文件夹中，其中Matrix.c是普通矩阵乘法的相关代码，Blas.c为使用OpenBLAS库相关函数的代码。获得的数据存放在文件夹data中，其中Record.txt为Matrix.c产生的文件，OpenBLAS_Record.txt为Blas.c产生的文件。将两个文件的内容分析制作成折线图如下：
 
-  ![image-20210920180512509](.\image-20210920180512509.png)
+  ![image-20210920180512509](https://github.com/Lonjiazeng/hpc/blob/main/lib2/image-20210920180512509.png)
 
   纵轴为时间，单位秒，横轴为矩阵大小，A、B、C均为n×n矩阵。详细信息可在data文件夹中的excel文件中查看。
 
