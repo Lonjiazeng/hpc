@@ -64,7 +64,7 @@
 | [vsscanf()](http://c.biancheng.net/cpp/html/302.html)     | 字符串输入函数                      |
 | [vfork()](http://c.biancheng.net/cpp/html/1141.html)      | 建立新的进程                        |
 
-[参考链接1]([进程的几种状态，以及切换步骤 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/77118122))
+[参考链接1](https://zhuanlan.zhihu.com/p/77118122)
 
 [参考链接2](https://www.cnblogs.com/king-77024128/articles/2684317.html)
 
