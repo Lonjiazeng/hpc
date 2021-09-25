@@ -24,7 +24,7 @@
 
 **五种状态的转换关系图：**
 
-![img]()
+![img](https://github.com/Lonjiazeng/hpc/blob/main/lib3/v2-c07a9c44b018409433a427a29e417599_720w.jpg)
 
 
 
