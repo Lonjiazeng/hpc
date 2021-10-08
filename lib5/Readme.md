@@ -138,7 +138,7 @@ OpenMP定义了20多个库函数：
 
 代码存放在lib5/code文件中，数据处理获得的结果存放在lib5/data文件夹中。将运行结果与前几次实验获得的结果进行对比，得到折线图如下：
 
-![image-20211008152920889](C:\Users\LJZ\Desktop\image\Readme\image-20211008152920889.png)
+![image-20211008152920889](https://github.com/Lonjiazeng/hpc/blob/main/lib5/image/Readme/image-20211008152920889.png)
 
 由上图可以看到，计算速度相对于pthread有很大的提升，但是相较于单线程和OpenBLAS仍然逊色。具体原因可能如下文章所示：
 
